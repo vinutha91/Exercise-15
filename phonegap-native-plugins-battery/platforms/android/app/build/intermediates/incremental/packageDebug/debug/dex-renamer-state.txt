@@ -1,0 +1,4 @@
+#Mon Jun 17 11:15:05 IST 2019
+base.0=/Users/ankittanna/Desktop/PhoneGap/Exercise-15/phonegap-native-plugins-battery/platforms/android/app/build/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex
